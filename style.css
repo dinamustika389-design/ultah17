@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'UnifrakturCook', cursive; /* FONT GOTHIC */
+    background: url('PINK.jpg') no-repeat center/cover;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.card {
+    background: rgba(255, 240, 247, 0.219);
+    max-width: 380px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 4px 14px rgba(255, 147, 178, 0.5);
+}
+
+h1 {
+    color: #ff6fa8;
+    font-size: 22px;       /* font kecil */
+    margin-bottom: 8px;
+}
+
+h2 {
+    color: #ff4f9c;
+    font-size: 20px;       /* font kecil */
+    margin-top: 0;
+}
+
+.usia {
+    background: #ffb7d5;
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.kata {
+    color: #6b355e;
+    font-size: 13px;
+    line-height: 1.6;
+    padding: 0 10px;
+}
+
+.info p {
+    margin: 2px 0;
+    font-size: 14px;
+    color: #803a6b;
+}
+
+.btn {
+    display: block;
+    width: 75%;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 13px;
+    border-radius:
+}
